@@ -1,10 +1,10 @@
 # HUYNH TRUNG THOAI - CV
 
-Huỳnh Trung Thoại | Male
-02/04/1995
-huynhtrungthoai@gmail.com
-Mobile developer
-3+ years of experience
+- Huỳnh Trung Thoại | Male
+- 02/04/1995
+- huynhtrungthoai@gmail.com
+- Mobile developer
+- 3+ years of experience
 
 ## Skill
 

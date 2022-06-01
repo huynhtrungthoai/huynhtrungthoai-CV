@@ -1,6 +1,6 @@
 # HUYNH TRUNG THOAI - CV
 
-- Huỳnh Trung Thoại | Male
+- Huỳnh Trung Thoại
 - 02/04/1995
 - huynhtrungthoai@gmail.com
 - Mobile developer
